@@ -1,4 +1,4 @@
-package com.vinsguru.aggregator_service;
+package com.vinsguru.aggregator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
